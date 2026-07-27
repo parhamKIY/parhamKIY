@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="profile.png" width="210" alt="Parham Kiyoumarsi" />
+<img src="profile.png" width="420" alt="Parham Kiyoumarsi" />
 
 <br>
 
