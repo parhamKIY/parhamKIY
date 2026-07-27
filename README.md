@@ -6,6 +6,10 @@
 
 <div align="center">
 
+<img src="./assets/parham-kiyoumarsi.png" width="210" alt="Parham Kiyoumarsi" />
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+intelligent+systems+from+data+to+deployment;Exploring+Deep+Learning%2C+Cybersecurity+and+IoT;Turning+research+ideas+into+working+software)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parham-kiyoumarsi-a36219397/)
@@ -111,12 +115,12 @@ My experience includes publishing peer-reviewed research, mentoring students as 
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=parhamKIY&show_icons=true&hide_border=true&bg_color=00000000&title_color=7F5AF0&icon_color=2CB67D&text_color=718096&rank_icon=github"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parhamKIY&theme=tokyonight"
   alt="Parham's GitHub statistics"
 />
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhamKIY&layout=compact&hide_border=true&bg_color=00000000&title_color=7F5AF0&text_color=718096&langs_count=6"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parhamKIY&theme=tokyonight"
   alt="Parham's most used languages"
 />
 
@@ -127,8 +131,6 @@ My experience includes publishing peer-reviewed research, mentoring students as 
 ### Research-driven. Curious by default. Always building.
 
 My pinned repositories below are the best place to explore what I have been working on.
-
-![Profile Views](https://komarev.com/ghpvc/?username=parhamKIY&color=7F5AF0&style=flat-square&label=Profile+views)
 
 </div>
 
