@@ -1,141 +1,151 @@
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7F5AF0,100:2CB67D&height=220&section=header&text=Parham%20Kiyoumarsi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Artificial%20Intelligence%20%7C%20IoT&descAlignY=57&descSize=18"
-  width="100%"
-  alt="Parham Kiyoumarsi"
-/>
-
 <div align="center">
 
-<img src="profile.png" width="420" alt="Parham Kiyoumarsi" />
+<img src="assets/profile-banner.svg" width="100%" alt="Parham Kiyoumarsi — Artificial Intelligence, Bioinformatics, Computer Vision, and Agentic AI" />
 
-<br>
+**Computer Engineering · University of Isfahan · Isfahan, Iran**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+intelligent+systems+from+data+to+deployment;Exploring+Deep+Learning%2C+Cybersecurity+and+IoT;Turning+research+ideas+into+working+software)](https://git.io/typing-svg)
+I build research software that connects intelligent models with biological data, images, and real applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parham-kiyoumarsi-a36219397/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parham.kiyoumarsi@mehr.ui.ac.ir)
-[![GitHub](https://img.shields.io/badge/GitHub-parhamKIY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parhamKIY)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parham-kiyoumarsi-a36219397/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-167D8D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parham.kiyoumarsi@mehr.ui.ac.ir)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parhamKIY?tab=repositories)
+
+[About](#about-me) · [Projects](#selected-work) · [Publications](#research--publications) · [Experience](#research--teaching) · [Toolbox](#technical-toolbox)
 
 </div>
 
-## `whoami`
+## About me
 
-```python
-parham = {
-    "role": "Computer Engineering Student",
-    "university": "University of Isfahan",
-    "focus": ["Artificial Intelligence", "Deep Learning", "Computer Networks"],
-    "interests": ["Cybersecurity", "IoT", "Data Mining", "Digital Signal Processing"],
-    "research": "Two peer-reviewed publications",
-    "mindset": "Learn deeply. Build thoughtfully. Share openly."
-}
-```
+<img align="right" src="profile.png" width="190" alt="Parham Kiyoumarsi" />
 
-I am a Computer Engineering student focused on **Artificial Intelligence**, with an academic background in **computer networks**. I enjoy connecting research with implementation—especially where machine learning meets cybersecurity, IoT, data mining,Bioinformatics and signal processing.
+I'm **Parham**, a final-year Computer Engineering student at the **University of Isfahan**, with a focus on artificial intelligence and computer networks.
 
-My experience includes publishing peer-reviewed research, mentoring students as a teaching assistant, and building practical systems that move from raw data to useful outcomes.
+My work spans **bioinformatics, computer vision, language models, and cybersecurity**. I've worked on gene-expression feature selection, clinical variant interpretation software, visual recognition pipelines, and assistants that retrieve evidence from scientific papers.
 
-## Tech stack
+I enjoy the engineering around the model, too: shaping the data, building the interface, connecting services, and making the result usable. Alongside my projects, I've **coauthored two research publications**, worked as a **research intern in medical genomics and agentic AI**, and supported students as a **teaching assistant and head TA**.
 
-<div align="center">
+The questions I keep coming back to: *What evidence supports the answer? How does the system fail? Can someone else use and reproduce the work?*
 
-### Languages & data
+<br clear="right" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Areas I work in
 
-### AI & machine learning
+| Area | What that looks like in my work |
+| :--- | :--- |
+| **Artificial intelligence & language systems** | Machine learning, deep learning, retrieval-augmented generation, semantic search, and LLM tool calling. |
+| **Bioinformatics & scientific computing** | Gene-expression analysis, feature selection for cancer classification, genomic evidence workflows, and molecular simulation tools. |
+| **Computer vision** | Image classification with YOLO, class balancing, augmentation, and connecting visual predictions to browser automation. |
+| **Cybersecurity, networks & IoT** | Network anomaly detection, adversarial evasion experiments, trust assessment, and connected application development. |
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7F5AF0?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-00A67E?style=for-the-badge)
-
-### Systems & domains
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![IoT](https://img.shields.io/badge/Internet%20of%20Things-00C9FF?style=for-the-badge&logo=arduino&logoColor=white)
-![DSP](https://img.shields.io/badge/Digital%20Signal%20Processing-2CB67D?style=for-the-badge)
-
-</div>
-
-## Research & publications
+## Selected work
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Trust in IoT Networks</h3>
-      <p>
-        <strong>Providing a Method to Improve the Level of Trust in IoT Networks Using Deep Learning Structure</strong>
-      </p>
-      <a href="https://srb.sanad.iau.ir/en/Article/1194560">
-        <img src="https://img.shields.io/badge/Read%20publication-7F5AF0?style=flat-square&logo=readthedocs&logoColor=white" alt="Read publication"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3>🧬 Visual DSD Rebooted</h3>
+      <p>A modern local workspace built around the original Visual DSD scientific core: DNA strand-displacement models, reaction networks, simulations, and guided bioinformatics activities.</p>
+      <p><sub>Scientific software · Molecular computing · F# / .NET</sub></p>
+      <p><a href="https://github.com/parhamKIY/Visual-DSD-rebooted">Explore the project →</a> · <a href="https://github.com/parhamKIY/Visual-DSD-rebooted/releases">Releases</a></p>
     </td>
-    <td width="50%">
-      <h3>Cancer Classification</h3>
-      <p>
-        <strong>A Feature Selection Method on Gene Expression Microarray Data for Cancer Classification</strong>
-      </p>
-      <a href="https://srb.sanad.iau.ir/fa/Article/1189068">
-        <img src="https://img.shields.io/badge/Read%20publication-2CB67D?style=flat-square&logo=readthedocs&logoColor=white" alt="Read publication"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3>🔬 Clinical Variant Interpretation</h3>
+      <p>A genomic analysis web application that assembles source-attributed evidence, prepares LLM-assisted interpretation drafts, and supports expert review and reporting. Includes experimental query-privacy mechanisms.</p>
+      <p><sub>Medical genomics · Python · React / TypeScript · Docker</sub></p>
+      <p><strong>Private research project</strong> · Manuscript in preparation</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Scientific Paper Assistant</h3>
+      <p>A bilingual research assistant combining document retrieval, semantic search, LLM function calling, and voice input to help explore scientific papers and compare their findings.</p>
+      <p><sub>RAG · FAISS · Sentence Transformers · Whisper</sub></p>
+      <p><a href="https://github.com/parhamKIY/LLM">Explore the project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ Visual Recognition & Automation</h3>
+      <p>An image-based CAPTCHA project combining YOLO classification with Selenium automation, including minority-class oversampling, image augmentation, and test-time augmentation.</p>
+      <p><sub>Computer vision · Ultralytics YOLO · PyTorch · Selenium</sub></p>
+      <p><a href="https://github.com/parhamKIY/captcha-braker-">Explore the project →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 Gene Selection for Cancer Classification</h3>
+      <p>A Python implementation of our published gene-expression feature-selection method, combining variance filtering, extremely randomized trees, and whale optimization.</p>
+      <p><sub>Bioinformatics · Feature selection · Optimization · KNN</sub></p>
+      <p><a href="https://github.com/parhamKIY/A-Feature-Selection-Method-on-Gene-Expression-Microarray-Data-for-Cancer-Classification-Abstract">Explore the implementation →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Network Anomaly Detection</h3>
+      <p>A streaming anomaly-detection project exploring classical and deep models, LLM-assisted anomaly analysis, and black-box adversarial evasion through a surrogate model.</p>
+      <p><sub>Security research · Isolation Forest · Autoencoders · 1D CNN</sub></p>
+      <p><a href="https://github.com/parhamKIY/anomaly-detection-project">Explore the project →</a></p>
     </td>
   </tr>
 </table>
 
-## Academic experience
+### More things I've built
 
-### Teaching Assistant — Fundamentals of Computer Programming
+| Project | Focus |
+| :--- | :--- |
+| [Neural Choice Decoding](https://github.com/parhamKIY/neuroconnect-project) | Computational neuroscience: predicting left/right choices from IBL neural population recordings. |
+| [Deep Learning for IoT Trust](https://github.com/parhamKIY/Providing-a-Method-to-Improve-the-Level-of-Trust-in-IOT-Networks-Using-Deep-Learning-Structure) | Implementation of our published trust-assessment approach using SMART and LSTM. |
+| [Credit Limit Prediction](https://github.com/parhamKIY/DATA_MINING) | Data preprocessing, feature engineering, regression models, and an artificial neural network. |
+| [Smart Parking Management](https://github.com/parhamKIY/SmartParkingManagementSystem) | A team IoT course project connecting parking management with a web application. |
+| [Reliable Transport Simulation](https://github.com/parhamKIY/TCP-connection-simulation) | A reliable data-transfer protocol implemented over UDP. |
 
-**University of Isfahan**
+## Research & publications
 
-- Mentored undergraduate students in core programming concepts.
-- Helped students strengthen algorithmic thinking and problem-solving skills.
+I have coauthored research on **machine learning for biological data** and **trust in connected systems**. Publication pages and code are linked separately below.
 
-### B.Sc. in Computer Engineering
+**A Feature Selection Method on Gene Expression Microarray Data for Cancer Classification**<br />
+*Journal of Optimization in Soft Computing* · Hybrid gene selection for high-dimensional cancer data.<br />
+[Read the paper](https://sanad.iau.ir/Journal/josc/Article/1189068/FullText) · [Explore the code](https://github.com/parhamKIY/A-Feature-Selection-Method-on-Gene-Expression-Microarray-Data-for-Cancer-Classification-Abstract)
 
-**University of Isfahan**
+**Providing a Method to Improve the Level of Trust in IoT Networks Using Deep Learning Structure**<br />
+*Artificial Intelligence Tools in Software and Data Engineering* · SMART-based trust scoring combined with LSTM behavioral modeling.<br />
+[Read the paper](https://srb.sanad.iau.ir/en/Article/1194560) · [Explore the code](https://github.com/parhamKIY/Providing-a-Method-to-Improve-the-Level-of-Trust-in-IOT-Networks-Using-Deep-Learning-Structure)
 
-- Primary focus: Artificial Intelligence
-- Secondary focus: Computer Networks
+**Current research work:** clinical variant interpretation, evidence traceability, and experimental privacy mechanisms for external genomic queries. The associated manuscript is in preparation.
 
-## Continuous learning
+## Research & teaching
 
-- Advanced Python Programming
-- Academic Writing with AI
-- English Language Proficiency — Advanced
-- Ongoing exploration of deep learning, encryption, data mining, and intelligent connected systems
+- **Research Intern · Summer 2026** — Agentic AI and medical genomics at the Medical Image and Signal Processing Research Center, Isfahan University of Medical Sciences.
+- **Head Teaching Assistant · Spring 2026** — Computer Networks, University of Isfahan.
+- **Head Teaching Assistant · Spring 2026** — Signals and Systems, University of Isfahan.
+- **Teaching Assistant · Fall 2024** — Fundamentals of Programming with C++, University of Isfahan.
 
-## GitHub activity
+**Education:** B.Sc. in Computer Engineering, University of Isfahan · Expected graduation: **Spring 2027**.
+
+## Technical toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+| Toolkit | Tools and methods used across my projects |
+| :--- | :--- |
+| **Data & modeling** | Python, NumPy, pandas, scikit-learn, PyTorch, TensorFlow, Jupyter |
+| **Vision & language** | Ultralytics YOLO, Selenium, FAISS, Sentence Transformers, RAG, LLM tool calling |
+| **Applications & scientific tools** | React, TypeScript, F# / .NET, SQL, Git, Docker, Linux |
+
+## What I'm exploring next
+
+- Multimodal learning and robustness when useful evidence is missing or deliberately concealed.
+- Research assistants that make their evidence and tool use easier to inspect.
+- Bioinformatics tools that help students move from an input file to an interpretable result.
+
+---
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parhamKIY&theme=tokyonight"
-  alt="Parham's GitHub statistics"
-/>
-<img
-  height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parhamKIY&theme=tokyonight"
-  alt="Parham's most used languages"
-/>
+**Interested in AI for biology, computer vision, research tools, or learning together?**
+
+[Let's connect](https://www.linkedin.com/in/parham-kiyoumarsi-a36219397/) · [Send me an email](mailto:parham.kiyoumarsi@mehr.ui.ac.ir) · [Browse my repositories](https://github.com/parhamKIY?tab=repositories)
 
 </div>
-
-<div align="center">
-
-### Research-driven. Curious by default. Always building.
-
-My pinned repositories below are the best place to explore what I have been working on.
-
-</div>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,50:7F5AF0,100:00C9FF&height=110&section=footer"
-  width="100%"
-  alt=""
-/>

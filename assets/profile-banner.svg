@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Parham Kiyoumarsi</title>
+  <desc id="desc">Artificial Intelligence, Bioinformatics, Computer Vision, and Agentic AI. Computer Engineering at the University of Isfahan.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1222"/>
+      <stop offset="0.55" stop-color="#121B33"/>
+      <stop offset="1" stop-color="#182E3F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="1216" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#62E5C5"/>
+      <stop offset="0.52" stop-color="#69BEFF"/>
+      <stop offset="1" stop-color="#B09AFF"/>
+    </linearGradient>
+    <linearGradient id="helix" x1="930" y1="88" x2="1185" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#62E5C5"/>
+      <stop offset="1" stop-color="#9B8DFF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#D7E8FF" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1278" height="418" rx="22" fill="url(#background)" stroke="#34435C"/>
+  <rect x="1" y="1" width="1278" height="418" rx="22" fill="url(#grid)"/>
+  <path d="M64 2H1216" stroke="url(#accent)" stroke-width="3"/>
+  <circle cx="1110" cy="208" r="162" fill="#69BEFF" fill-opacity="0.025" stroke="#69BEFF" stroke-opacity="0.09"/>
+  <circle cx="1110" cy="208" r="124" stroke="#69BEFF" stroke-opacity="0.08" stroke-dasharray="3 9"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="71" font-size="13" font-weight="600" letter-spacing="3" fill="#83B3CA">RESEARCH / ENGINEERING / TEACHING</text>
+    <text x="60" y="149" font-size="62" font-weight="700" letter-spacing="-2" fill="#F4F8FF">Parham Kiyoumarsi</text>
+    <text x="64" y="193" font-size="21" fill="#B9C9DF">Intelligent models. Biological data. Working software.</text>
+    <g font-size="15" font-weight="600">
+      <rect x="64" y="233" width="182" height="39" rx="8" fill="#62E5C5" fill-opacity="0.09" stroke="#62E5C5" stroke-opacity="0.38"/>
+      <text x="155" y="258" text-anchor="middle" fill="#8FF3D9">Artificial Intelligence</text>
+      <rect x="258" y="233" width="151" height="39" rx="8" fill="#69BEFF" fill-opacity="0.09" stroke="#69BEFF" stroke-opacity="0.38"/>
+      <text x="333.5" y="258" text-anchor="middle" fill="#A3D7FF">Bioinformatics</text>
+      <rect x="421" y="233" width="167" height="39" rx="8" fill="#B09AFF" fill-opacity="0.09" stroke="#B09AFF" stroke-opacity="0.38"/>
+      <text x="504.5" y="258" text-anchor="middle" fill="#CCBEFF">Computer Vision</text>
+      <rect x="600" y="233" width="127" height="39" rx="8" fill="#62E5C5" fill-opacity="0.06" stroke="#62E5C5" stroke-opacity="0.25"/>
+      <text x="663.5" y="258" text-anchor="middle" fill="#A2DCD6">Agentic AI</text>
+    </g>
+    <path d="M64 313H760" stroke="#364660"/>
+    <text x="64" y="349" font-size="15" fill="#A6B8D0">Computer Engineering</text>
+    <circle cx="239" cy="344" r="2" fill="#62E5C5"/>
+    <text x="254" y="349" font-size="15" fill="#A6B8D0">University of Isfahan</text>
+    <text x="64" y="380" font-size="13" fill="#7389A6">github.com/parhamKIY</text>
+  </g>
+  <g stroke="url(#helix)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M978 88C1168 140 976 177 1166 229C1272 258 1080 298 1136 330" stroke-width="3" opacity="0.8"/>
+    <path d="M1150 88C960 140 1152 177 962 229C856 258 1048 298 992 330" stroke-width="3" opacity="0.8"/>
+    <g stroke-width="2" opacity="0.35">
+      <path d="M998 96H1130M1031 111H1097M1045 131H1083M1008 151H1120M995 171H1133M1020 191H1108M1028 211H1100M965 231H1163M944 251H1184M970 271H1158M1004 291H1124M1003 311H1125"/>
+    </g>
+  </g>
+  <g fill="#0E192C" stroke="#86DCCE" stroke-width="2">
+    <circle cx="978" cy="88" r="5"/>
+    <circle cx="1150" cy="88" r="5"/>
+    <circle cx="1166" cy="229" r="5"/>
+    <circle cx="962" cy="229" r="5"/>
+    <circle cx="1136" cy="330" r="5"/>
+    <circle cx="992" cy="330" r="5"/>
+  </g>
+  <g stroke="#91ABDC" stroke-opacity="0.35" stroke-width="1.5">
+    <path d="M922 114V96H940M1192 96H1210V114M922 304V322H940M1192 322H1210V304"/>
+  </g>
+  <text x="1064" y="372" text-anchor="middle" font-family="Consolas, monospace" font-size="12" letter-spacing="2" fill="#7389A6">DATA → MODELS → INSIGHT</text>
+</svg>
