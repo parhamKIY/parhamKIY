@@ -6,8 +6,7 @@
 
 <img src="assets/focus-typing.gif" width="90%" alt="Animated typing: Machine Learning & Deep Learning · Computer Vision & Automation · Agentic AI & Research Assistants · AI for Cybersecurity" />
 
-**Computer Engineering @ University of Isfahan**<br />
-Curious about intelligence. Serious about building things.
+**Computer Engineering @ University of Isfahan**
 
 <br />
 
@@ -15,17 +14,17 @@ Curious about intelligence. Serious about building things.
 [![Email](https://img.shields.io/badge/Email-Say_hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parham.kiyoumarsi@mehr.ui.ac.ir)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/parhamKIY?tab=repositories)
 
-[Who I am](#-whoami) · [What I build](#-from-models-to-applications) · [My toolkit](#-the-toolkit) · [Research & teaching](#-beyond-the-code)
+[About](#whoami) · [Projects](#projects) · [Tech stack](#tech-stack) · [Research & teaching](#research--teaching)
 
 </div>
 
-## ⚡ `whoami`
+## `whoami`
 
 <img align="right" src="profile.png" width="205" alt="Parham Kiyoumarsi" />
 
 I'm **Parham**, a final-year Computer Engineering student focused on **Artificial Intelligence** and **Computer Networks**.
 
-I enjoy taking an idea beyond the notebook: training the model, building the application around it, and figuring out what happens when it meets real inputs. My projects span **machine learning, deep learning, computer vision, agentic AI, and cybersecurity**.
+I work with **machine learning, deep learning, computer vision, and agentic AI**, with a particular interest in cybersecurity. I like building the software around a model as much as working on the model itself.
 
 I've also applied these interests to IoT and medical research, coauthored **two publications**, and helped other students learn as a **teaching assistant and head TA**.
 
@@ -36,46 +35,38 @@ parham = {
     "core": "Artificial Intelligence",
     "builds": ["ML / DL", "Computer Vision", "Agentic AI"],
     "interests": ["AI for Cybersecurity", "Intelligent Applications"],
-    "approach": "Understand it. Build it. Keep improving."
+    "background": "Computer Networks"
 }
 ```
 
-## 🚀 From models to applications
+## Projects
 
-### 🧠 Scientific Paper Assistant
-**A research companion that can retrieve, reason, and call tools.**
+### [Paper Research Assistant](https://github.com/parhamKIY/LLM)
 
-A bilingual assistant for exploring scientific papers through document embeddings, semantic retrieval, LLM function calling, and voice input.
+A bilingual assistant for searching scientific papers and asking questions about their contents, with document retrieval, tool calling, and voice input.
 
-`RAG` `FAISS` `Sentence Transformers` `Whisper`<br />
-[Explore the assistant →](https://github.com/parhamKIY/LLM)
+<sub>RAG · FAISS · Sentence Transformers · Whisper</sub>
 
-### 👁️ Computer Vision & Automation
-**From an image prediction to an automated interaction.**
+### [Image CAPTCHA Solver](https://github.com/parhamKIY/captcha-braker-)
 
 An image-based CAPTCHA project combining YOLO classification with Selenium, including class balancing, augmentation, and test-time augmentation.
 
-`Computer Vision` `YOLO` `PyTorch` `Selenium`<br />
-[See the vision pipeline →](https://github.com/parhamKIY/captcha-braker-)
+<sub>Computer Vision · YOLO · PyTorch · Selenium</sub>
 
-### 🛡️ Network Anomaly Detection & Adversarial Evasion
-**Build the detector. Then study how it can be fooled.**
+### [Network Anomaly Detection](https://github.com/parhamKIY/anomaly-detection-project)
 
-A streaming detection project with classical and deep models, LLM-assisted anomaly analysis, and black-box evasion experiments using a surrogate model.
+Network anomaly detection with classical and deep models, plus black-box evasion experiments using a surrogate model. Includes LLM-assisted analysis of detected anomalies.
 
-`Isolation Forest` `Autoencoders` `1D CNN` `Adversarial ML`<br />
-[Explore the experiments →](https://github.com/parhamKIY/anomaly-detection-project)
+<sub>Isolation Forest · Autoencoders · 1D CNN · Adversarial ML</sub>
 
-### 🌐 Deep Learning for IoT Trust
-**Learning how connected nodes behave over time.**
+### [IoT Trust Assessment](https://github.com/parhamKIY/Providing-a-Method-to-Improve-the-Level-of-Trust-in-IOT-Networks-Using-Deep-Learning-Structure)
 
 An implementation of our published work combining SMART trust scoring with LSTM-based analysis of behavioral changes in IoT networks.
 
-`Deep Learning` `LSTM` `Trust Modeling` `IoT`<br />
-[Explore the implementation →](https://github.com/parhamKIY/Providing-a-Method-to-Improve-the-Level-of-Trust-in-IOT-Networks-Using-Deep-Learning-Structure)
+<sub>Deep Learning · LSTM · Trust Modeling · IoT</sub>
 
 <details>
-<summary><strong>🧩 More builds & applied research</strong></summary>
+<summary><strong>Other projects</strong></summary>
 
 <br />
 
@@ -89,7 +80,7 @@ An implementation of our published work combining SMART trust scoring with LSTM-
 
 </details>
 
-## 🛠️ The toolkit
+## Tech stack
 
 <div align="center">
 
@@ -105,7 +96,7 @@ An implementation of our published work combining SMART trust scoring with LSTM-
 - **Applications & systems:** Python, C++, SQL, React / TypeScript, Git, Docker, Linux.
 - **Foundations:** computer networks, network security, digital signal processing.
 
-## 🎓 Beyond the code
+## Research & teaching
 
 **Research internship · Summer 2026**<br />
 Agentic AI & Medical Genomics — Medical Image and Signal Processing Research Center, Isfahan University of Medical Sciences.
@@ -119,14 +110,14 @@ Fundamentals of Programming with C++ — University of Isfahan.
 **B.Sc. in Computer Engineering · University of Isfahan**<br />
 AI focus · Computer Networks background · Expected graduation: Spring 2027.
 
-### 📝 Publications
+### Publications
 
 - **[Providing a Method to Improve the Level of Trust in IoT Networks Using Deep Learning Structure](https://srb.sanad.iau.ir/en/Article/1194560)**<br />
   *Artificial Intelligence Tools in Software and Data Engineering* · [Implementation](https://github.com/parhamKIY/Providing-a-Method-to-Improve-the-Level-of-Trust-in-IOT-Networks-Using-Deep-Learning-Structure)
 - **[A Feature Selection Method on Gene Expression Microarray Data for Cancer Classification](https://sanad.iau.ir/Journal/josc/Article/1189068/FullText)**<br />
   *Journal of Optimization in Soft Computing* · [Implementation](https://github.com/parhamKIY/A-Feature-Selection-Method-on-Gene-Expression-Microarray-Data-for-Cancer-Classification-Abstract)
 
-## 📈 GitHub in motion
+## GitHub activity
 
 <div align="center">
 
@@ -134,10 +125,6 @@ AI focus · Computer Networks background · Expected graduation: Spring 2027.
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parhamKIY&theme=tokyonight" alt="Languages across Parham's repositories" />
 
 <br /><br />
-
-**Always learning. Always building.**
-
-If you're working on AI, computer vision, intelligent applications, or a good research question, I'd love to connect.
 
 [Start a conversation](mailto:parham.kiyoumarsi@mehr.ui.ac.ir) · [Find me on LinkedIn](https://www.linkedin.com/in/parham-kiyoumarsi-a36219397/)
 
